@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				5
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Sonic Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				-19
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Sonic Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-22,
+				9
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Sonic Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				13
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Sonic Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-22,
+				9
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Sonic Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/mania/sonicMania",
+	"position": [
+		400,
+		592
+	],
+	"healthicon": "sonicmania",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		104,
+		240
+	],
+	"camera_position": [
+		-120,
+		40
+	],
+	"sing_duration": 4,
+	"scale": 4
+}
