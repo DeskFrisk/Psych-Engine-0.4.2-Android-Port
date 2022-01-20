@@ -1,0 +1,213 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="senpai.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Sonic Left0000" x="1" y="117" width="28" height="40"/>
+	<SubTexture name="Sonic Left0001" x="1" y="117" width="28" height="40"/>
+	<SubTexture name="Sonic Left0002" x="30" y="117" width="28" height="40"/>
+	<SubTexture name="Sonic Left0003" x="30" y="117" width="28" height="40"/>
+	<SubTexture name="Sonic Left0004" x="59" y="117" width="28" height="40"/>
+	<SubTexture name="Sonic Left0005" x="59" y="117" width="28" height="40"/>
+	<SubTexture name="Sonic Left0006" x="59" y="117" width="28" height="40"/>
+	<SubTexture name="Sonic Left0007" x="59" y="117" width="28" height="40"/>
+	<SubTexture name="Sonic Left0008" x="59" y="117" width="28" height="40"/>
+	<SubTexture name="Sonic Left0009" x="59" y="117" width="28" height="40"/>
+	
+	<SubTexture name="Sonic Right0000" x="1" y="158" width="29" height="40"/>
+	<SubTexture name="Sonic Right0001" x="1" y="158" width="29" height="40"/>
+	<SubTexture name="Sonic Right0002" x="31" y="158" width="29" height="40"/>
+	<SubTexture name="Sonic Right0003" x="31" y="158" width="29" height="40"/>
+	<SubTexture name="Sonic Right0004" x="61" y="158" width="29" height="40"/>
+	<SubTexture name="Sonic Right0005" x="61" y="158" width="29" height="40"/>
+	<SubTexture name="Sonic Right0006" x="61" y="158" width="29" height="40"/>
+	<SubTexture name="Sonic Right0007" x="61" y="158" width="29" height="40"/>
+	<SubTexture name="Sonic Right0008" x="61" y="158" width="29" height="40"/>
+	<SubTexture name="Sonic Right0009" x="61" y="158" width="29" height="40"/>
+	
+	<SubTexture name="Sonic Down0000" x="1" y="41" width="26" height="33"/>
+	<SubTexture name="Sonic Down0001" x="1" y="41" width="26" height="33"/>
+	<SubTexture name="Sonic Down0002" x="28" y="41" width="26" height="33"/>
+	<SubTexture name="Sonic Down0003" x="28" y="41" width="26" height="33"/>
+	<SubTexture name="Sonic Down0004" x="55" y="41" width="26" height="33"/>
+	<SubTexture name="Sonic Down0005" x="55" y="41" width="26" height="33"/>
+	<SubTexture name="Sonic Down0006" x="55" y="41" width="26" height="33"/>
+	<SubTexture name="Sonic Down0007" x="55" y="41" width="26" height="33"/>
+	<SubTexture name="Sonic Down0008" x="55" y="41" width="26" height="33"/>
+	<SubTexture name="Sonic Down0009" x="55" y="41" width="26" height="33"/>
+	
+	<SubTexture name="Sonic Up0000" x="1" y="75" width="28" height="41"/>
+	<SubTexture name="Sonic Up0001" x="1" y="75" width="28" height="41"/>
+	<SubTexture name="Sonic Up0003" x="30" y="75" width="28" height="41"/>
+	<SubTexture name="Sonic Up0004" x="30" y="75" width="28" height="41"/>
+	<SubTexture name="Sonic Up0005" x="59" y="75" width="28" height="41"/>
+	<SubTexture name="Sonic Up0006" x="59" y="75" width="28" height="41"/>
+	<SubTexture name="Sonic Up0007" x="59" y="75" width="28" height="41"/>
+	<SubTexture name="Sonic Up0008" x="59" y="75" width="28" height="41"/>
+	<SubTexture name="Sonic Up0009" x="59" y="75" width="28" height="41"/>
+	
+	<SubTexture name="Sonic Idle0000" x="1" y="1" width="33" height="39"/>
+	<SubTexture name="Sonic Idle0001" x="35" y="1" width="33" height="39"/>
+	<SubTexture name="Sonic Idle0002" x="35" y="1" width="33" height="39"/>
+	<SubTexture name="Sonic Idle0003" x="69" y="1" width="33" height="39"/>
+	<SubTexture name="Sonic Idle0004" x="69" y="1" width="33" height="39"/>
+	<SubTexture name="Sonic Idle0005" x="103" y="1" width="33" height="39"/>
+	<SubTexture name="Sonic Idle0006" x="103" y="1" width="33" height="39"/>
+	<SubTexture name="Sonic Idle0007" x="137" y="1" width="33" height="39"/>
+	<SubTexture name="Sonic Idle0008" x="137" y="1" width="33" height="39"/>
+	<SubTexture name="Sonic Idle0009" x="137" y="1" width="33" height="39"/>
+	<SubTexture name="Sonic Idle0010" x="171" y="1" width="33" height="39"/>
+	<SubTexture name="Sonic Idle0011" x="1" y="1" width="33" height="39"/>
+	
+	
+	
+	
+	<SubTexture name="SonicA Left0000" x="103" y="117" width="28" height="40"/>
+	<SubTexture name="SonicA Left0001" x="103" y="117" width="28" height="40"/>
+	<SubTexture name="SonicA Left0002" x="132" y="117" width="28" height="40"/>
+	<SubTexture name="SonicA Left0003" x="132" y="117" width="28" height="40"/>
+	<SubTexture name="SonicA Left0004" x="161" y="117" width="28" height="40"/>
+	<SubTexture name="SonicA Left0005" x="161" y="117" width="28" height="40"/>
+	<SubTexture name="SonicA Left0006" x="161" y="117" width="28" height="40"/>
+	<SubTexture name="SonicA Left0007" x="161" y="117" width="28" height="40"/>
+	<SubTexture name="SonicA Left0008" x="161" y="117" width="28" height="40"/>
+	<SubTexture name="SonicA Left0009" x="161" y="117" width="28" height="40"/>
+	
+	<SubTexture name="SonicA Right0000" x="103" y="158" width="29" height="40"/>
+	<SubTexture name="SonicA Right0001" x="103" y="158" width="29" height="40"/>
+	<SubTexture name="SonicA Right0002" x="133" y="158" width="29" height="40"/>
+	<SubTexture name="SonicA Right0003" x="133" y="158" width="29" height="40"/>
+	<SubTexture name="SonicA Right0004" x="163" y="158" width="29" height="40"/>
+	<SubTexture name="SonicA Right0005" x="163" y="158" width="29" height="40"/>
+	<SubTexture name="SonicA Right0006" x="163" y="158" width="29" height="40"/>
+	<SubTexture name="SonicA Right0007" x="163" y="158" width="29" height="40"/>
+	<SubTexture name="SonicA Right0008" x="163" y="158" width="29" height="40"/>
+	<SubTexture name="SonicA Right0009" x="163" y="158" width="29" height="40"/>
+	
+	<SubTexture name="SonicA Down0000" x="103" y="41" width="26" height="33"/>
+	<SubTexture name="SonicA Down0001" x="103" y="41" width="26" height="33"/>
+	<SubTexture name="SonicA Down0002" x="130" y="41" width="26" height="33"/>
+	<SubTexture name="SonicA Down0003" x="130" y="41" width="26" height="33"/>
+	<SubTexture name="SonicA Down0004" x="157" y="41" width="26" height="33"/>
+	<SubTexture name="SonicA Down0005" x="157" y="41" width="26" height="33"/>
+	<SubTexture name="SonicA Down0006" x="157" y="41" width="26" height="33"/>
+	<SubTexture name="SonicA Down0007" x="157" y="41" width="26" height="33"/>
+	<SubTexture name="SonicA Down0008" x="157" y="41" width="26" height="33"/>
+	<SubTexture name="SonicA Down0009" x="157" y="41" width="26" height="33"/>
+	
+	<SubTexture name="SonicA Up0000" x="103" y="75" width="28" height="41"/>
+	<SubTexture name="SonicA Up0001" x="103" y="75" width="28" height="41"/>
+	<SubTexture name="SonicA Up0003" x="132" y="75" width="28" height="41"/>
+	<SubTexture name="SonicA Up0004" x="132" y="75" width="28" height="41"/>
+	<SubTexture name="SonicA Up0005" x="161" y="75" width="28" height="41"/>
+	<SubTexture name="SonicA Up0006" x="161" y="75" width="28" height="41"/>
+	<SubTexture name="SonicA Up0007" x="161" y="75" width="28" height="41"/>
+	<SubTexture name="SonicA Up0008" x="161" y="75" width="28" height="41"/>
+	<SubTexture name="SonicA Up0009" x="161" y="75" width="28" height="41"/>
+	
+	
+	
+	<SubTexture name="SSonic Left0000" x="207" y="51" width="31" height="44"/>
+	<SubTexture name="SSonic Left0001" x="239" y="51" width="31" height="44"/>
+	<SubTexture name="SSonic Left0002" x="271" y="51" width="31" height="44"/>
+	<SubTexture name="SSonic Left0003" x="303" y="51" width="31" height="44"/>
+	<SubTexture name="SSonic Left0004" x="335" y="51" width="31" height="44"/>
+	<SubTexture name="SSonic Left0005" x="367" y="51" width="31" height="44"/>
+	<SubTexture name="SSonic Left0006" x="399" y="51" width="31" height="44"/>
+	<SubTexture name="SSonic Left0007" x="431" y="51" width="31" height="44"/>
+	
+	<SubTexture name="SSonic Right0000" x="328" y="1" width="26" height="49"/>
+	<SubTexture name="SSonic Right0001" x="355" y="1" width="26" height="49"/>
+	<SubTexture name="SSonic Right0002" x="382" y="1" width="26" height="49"/>
+	<SubTexture name="SSonic Right0003" x="409" y="1" width="26" height="49"/>
+	<SubTexture name="SSonic Right0004" x="436" y="1" width="26" height="49"/>
+	<SubTexture name="SSonic Right0005" x="436" y="1" width="26" height="49"/>
+	
+	<SubTexture name="SSonic Down0000" x="207" y="96" width="32" height="35"/>
+	<SubTexture name="SSonic Down0001" x="240" y="96" width="32" height="35"/>
+	<SubTexture name="SSonic Down0002" x="273" y="96" width="32" height="35"/>
+	<SubTexture name="SSonic Down0003" x="306" y="96" width="32" height="35"/>
+	<SubTexture name="SSonic Down0004" x="339" y="96" width="32" height="35"/>
+	<SubTexture name="SSonic Down0005" x="372" y="96" width="32" height="35"/>
+	<SubTexture name="SSonic Down0006" x="405" y="96" width="32" height="35"/>
+	<SubTexture name="SSonic Down0007" x="438" y="96" width="32" height="35"/>
+	
+	<SubTexture name="SSonic Up0000" x="207" y="132" width="36" height="40"/>
+	<SubTexture name="SSonic Up0001" x="207" y="132" width="36" height="40"/>
+	<SubTexture name="SSonic Up0003" x="244" y="132" width="36" height="40"/>
+	<SubTexture name="SSonic Up0004" x="244" y="132" width="36" height="40"/>
+	<SubTexture name="SSonic Up0005" x="281" y="132" width="36" height="40"/>
+	<SubTexture name="SSonic Up0006" x="281" y="132" width="36" height="40"/>
+	<SubTexture name="SSonic Up0007" x="281" y="132" width="36" height="40"/>
+	<SubTexture name="SSonic Up0008" x="281" y="132" width="36" height="40"/>
+	<SubTexture name="SSonic Up0009" x="281" y="132" width="36" height="40"/>
+	
+	<SubTexture name="SSonic Idle0000" x="207" y="1" width="29" height="46"/>
+	<SubTexture name="SSonic Idle0001" x="207" y="1" width="29" height="46"/>
+	<SubTexture name="SSonic Idle0002" x="237" y="1" width="29" height="46"/>
+	<SubTexture name="SSonic Idle0003" x="237" y="1" width="29" height="46"/>
+	<SubTexture name="SSonic Idle0004" x="267" y="1" width="29" height="46"/>
+	<SubTexture name="SSonic Idle0005" x="267" y="1" width="29" height="46"/>
+	<SubTexture name="SSonic Idle0006" x="298" y="1" width="29" height="46"/>
+	<SubTexture name="SSonic Idle0007" x="298" y="1" width="29" height="46"/>
+	
+	
+	
+	
+	
+	<SubTexture name="SSonic Death0000" x="471" y="99" width="40" height="32"/>
+	<SubTexture name="SSonic Death0001" x="471" y="66" width="40" height="32"/>
+	<SubTexture name="SSonic Death0002" x="471" y="99" width="40" height="32"/>
+	<SubTexture name="SSonic Death0003" x="318" y="165" width="40" height="32"/>
+	<SubTexture name="SSonic Death0004" x="318" y="132" width="40" height="32"/>
+	<SubTexture name="SSonic Death0005" x="318" y="132" width="40" height="32"/>
+	<SubTexture name="SSonic Death0006" x="359" y="132" width="40" height="32"/>
+	<SubTexture name="SSonic Death0007" x="359" y="132" width="40" height="32"/>
+	<SubTexture name="SSonic Death0008" x="400" y="132" width="40" height="32"/>
+	<SubTexture name="SSonic Death0009" x="400" y="132" width="40" height="32"/>
+	<SubTexture name="SSonic Death0010" x="441" y="132" width="40" height="32"/>
+	<SubTexture name="SSonic Death0011" x="441" y="132" width="40" height="32"/>
+	<SubTexture name="SSonic Death0012" x="441" y="132" width="40" height="32"/>
+	<SubTexture name="SSonic Death0013" x="441" y="132" width="40" height="32"/>
+	
+	
+	<SubTexture name="SSonic DLoop0001" x="1" y="338" width="47" height="40"/>
+	<SubTexture name="SSonic DLoop0002" x="1" y="338" width="47" height="40"/>
+	<SubTexture name="SSonic DLoop0003" x="1" y="338" width="47" height="40"/>
+	<SubTexture name="SSonic DLoop0004" x="1" y="338" width="47" height="40"/>
+	<SubTexture name="SSonic DLoop0005" x="1" y="338" width="47" height="40"/>
+	<SubTexture name="SSonic DLoop0006" x="49" y="338" width="47" height="40"/>
+	<SubTexture name="SSonic DLoop0007" x="97" y="338" width="47" height="40"/>
+	<SubTexture name="SSonic DLoop0008" x="145" y="338" width="47" height="40"/>
+	<SubTexture name="SSonic DLoop0009" x="193" y="338" width="47" height="40"/>
+	
+	<SubTexture name="SSonic Confirm0000" x="1" y="284" width="28" height="53"/>
+	<SubTexture name="SSonic Confirm0001" x="30" y="284" width="28" height="53"/>
+	<SubTexture name="SSonic Confirm0002" x="59" y="284" width="28" height="53"/>
+	<SubTexture name="SSonic Confirm0003" x="88" y="284" width="28" height="53"/>
+	<SubTexture name="SSonic Confirm0004" x="117" y="284" width="28" height="53"/>
+	<SubTexture name="SSonic Confirm0005" x="88" y="284" width="28" height="53"/>
+	<SubTexture name="SSonic Confirm0006" x="117" y="284" width="28" height="53"/>
+	<SubTexture name="SSonic Confirm0007" x="146" y="284" width="28" height="53"/>
+	<SubTexture name="SSonic Confirm0008" x="176" y="284" width="28" height="53"/>
+	<SubTexture name="SSonic Confirm0009" x="176" y="284" width="28" height="53"/>
+	<SubTexture name="SSonic Confirm0010" x="206" y="284" width="28" height="53"/>
+	<SubTexture name="SSonic Confirm0011" x="206" y="284" width="28" height="53"/>
+	<SubTexture name="SSonic Confirm0012" x="236" y="284" width="28" height="53"/>
+	<SubTexture name="SSonic Confirm0013" x="236" y="284" width="28" height="53"/>
+	<SubTexture name="SSonic Confirm0014" x="266" y="284" width="28" height="53"/>
+	<SubTexture name="SSonic Confirm0015" x="266" y="284" width="28" height="53"/>
+	<SubTexture name="SSonic Confirm0016" x="206" y="284" width="28" height="53"/>
+	<SubTexture name="SSonic Confirm0017" x="206" y="284" width="28" height="53"/>
+	<SubTexture name="SSonic Confirm0018" x="236" y="284" width="28" height="53"/>
+	<SubTexture name="SSonic Confirm0019" x="236" y="284" width="28" height="53"/>
+	<SubTexture name="SSonic Confirm0020" x="266" y="284" width="28" height="53"/>
+	<SubTexture name="SSonic Confirm0021" x="266" y="284" width="28" height="53"/>
+	<SubTexture name="SSonic Confirm0022" x="266" y="284" width="28" height="53"/>
+	<SubTexture name="SSonic Confirm0023" x="266" y="284" width="28" height="53"/>
+	<SubTexture name="SSonic Confirm0024" x="206" y="284" width="28" height="53"/>
+	<SubTexture name="SSonic Confirm0025" x="206" y="284" width="28" height="53"/>
+	<SubTexture name="SSonic Confirm0026" x="236" y="284" width="28" height="53"/>
+	<SubTexture name="SSonic Confirm0027" x="236" y="284" width="28" height="53"/>
+	<SubTexture name="SSonic Confirm0028" x="266" y="284" width="28" height="53"/>
+	<SubTexture name="SSonic Confirm0029" x="266" y="284" width="28" height="53"/>
+</TextureAtlas>
