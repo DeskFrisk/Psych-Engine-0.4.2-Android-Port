@@ -1,0 +1,10 @@
+{
+	"idle_anim": "calm idle",
+	"image": "russia",
+	"position": [
+		150,
+		88
+	],
+	"scale": 0.55,
+	"confirm_anim": "right scream"
+}
